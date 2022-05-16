@@ -10,6 +10,4 @@ class Librarian {
       return `Hello, ${name}!`
   }
 }
-
-
 module.exports = Librarian;
